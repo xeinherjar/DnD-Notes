@@ -19,8 +19,8 @@ a reward if they would clear the cave and rescue anyone inside.
 They rested at the inn for the night.
 
 ### Notes
-Killed 4 goblins
-Found empty map case
+- Killed 4 goblins
+- Found empty map case
 
 ## Session 2
 Party meets in the dining area of the inn.  After a short discussion they head
@@ -50,11 +50,11 @@ cook Sildar.  Once the goblin captain and his fellow goblins were slain the
 party took Sildar out of the cave and decided to head back to town.
 
 ### Notes
-Killed klarg, 1 wolf, 10 goblins
-Charmed den of wolves
-The cave was not fully explored
-Found stolen goods from lionscrest, to be looted or returned
-Loot needs to be divided
+- Killed klarg, 1 wolf, 10 goblins
+- Charmed den of wolves
+- The cave was not fully explored
+- Found stolen goods from lionscrest, to be looted or returned
+- Loot needs to be divided
     - Three gold teeth (1 gp each) and 15 sp
     - 600 cp, 110 sp, two potions of healing
     - Jade statuette of a frog with tiny golden orbs for eyes (40 gp)
