@@ -35,17 +35,17 @@ them with his animal handling.  They then each climbed up the fissure at the
 back of the room and found themselves in Klargs room.  Klarg, his wolf and his
 2 goblins did not see them.  Senor Bucket was able to sleep the wolf and two
 goblins, and more importantly charm Klarg.  They promised to go ambushing with
-Klar, he just needed to meet them outside.  One Klarg left they were able to
+Klarg, he just needed to meet them outside.  Once Klarg left they were able to
 kill off the sleeping enemies.
 
-The party regroup with Klarg and learned where Sildar was held, and that he was
-soon to be eaten.  They also learned the Gundren is still currently alive.
+The party regrouped with Klarg and learned where Sildar was held, and that he
+was soon to be eaten.  They also learned the Gundren is still currently alive.
 With little more to gained, Flint struck Klarg with his axe.
 
 The party returned to to the cave to rescue Sildar, but the goblins knew they
 were coming and released a trap, a deluge of water broke forth and threatened
-to was them all away.  Everyone was able to avoid this except Flint, who was
-washed out.  The party regrouped an attacked the 6 goblins who were about to
+to wash them all away.  Everyone was able to avoid this except Flint, who was
+washed out.  The party regrouped and attacked the 6 goblins who were about to
 cook Sildar.  Once the goblin captain and his fellow goblins were slain the
 party took Sildar out of the cave and decided to head back to town.
 
