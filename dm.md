@@ -17,6 +17,7 @@
 
 # Skills
 | STR       | DEX            | INT           | WIS             | CHA          |
+| :--       | :--            | :--           | :--             | :--          |
 | Athletics | Acrobatics     | Arcana        | Animal Handling | Deception    |
 |           | Slight of Hand | History       | Insight         | Intimidation |
 |           | Stealth        | Investigation | Medicine        | Performance  |
@@ -30,16 +31,19 @@ Help / Hide / Improvise / Ready / Search / Shove / Use an Object
 
 # Dilford
 - Half Elf Paladin
+- Hit dice / 1d10
 - Kills
   - Goblins x4
 
 # Drupie
-- Rock Gnome Beastmaster Ranger
+- Rock Gnome Ranger
+- Hit dice / 1d10
 - Kills
   - Goblins x3
 
 # Flint Thicchammer
 - Dwarf Fighter
+- Hit dice / 1d10
 - Kills
   - Bugbear x1
       - Klarg
@@ -48,11 +52,13 @@ Help / Hide / Improvise / Ready / Search / Shove / Use an Object
 
 # Senor Bucket
 - Human Wizard
+- Hit dice / 1d6
 - Kills
   - Goblins x2
 
 # Vascular Hood
 - Human Fighter
+- Hit dice / 1d10
 - Kills
   - Goblins x3
       - Yeemik
