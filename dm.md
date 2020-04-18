@@ -16,6 +16,8 @@
 | Dark Vision |    60ft |   60ft |  60ft |      - |     - |
 
 # Skills
+Trivial:5 / Easy:10 / Moderate:15 / Hard:20 / Very Hard:25 / Near Impossible:30
+
 | STR       | DEX            | INT           | WIS             | CHA          |
 | :--       | :--            | :--           | :--             | :--          |
 | Athletics | Acrobatics     | Arcana        | Animal Handling | Deception    |
@@ -25,9 +27,18 @@
 |           |                | Religion      | Survival        |              |
 
 # Actions
-Attack / Cast a Spell / Dash / Disengage / Dodge / Grapple
+Attack / Cast a Spell / Dash / Disengage / Dodge / Grapple\
 Help / Hide / Improvise / Ready / Search / Shove / Use an Object
 
+# Conditions
+Blinded / Charmed / Deafened / Frightened / Grappled / Incapacitated\
+Invisible / Paralyzed / Petrified / Poisoned / Prone / Restrained\
+/ Stunned / Unconscious
+
+# Combat
+Determine Surprise -> Establish Position -> Roll Initiative -> Take Turns -> Next Round
+
+Movement -> Interact -> Action | Reaction -> Bonus Action
 
 # Dilford
 - Half Elf Paladin
