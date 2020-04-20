@@ -110,7 +110,7 @@ towns people cheered when the `Redbrands` were killed, the townmaster,
 `Harbin Wester` asked them to stop making trouble and walked away, a look of
 concern covered his face and a scow began to form as his turned his head away.
 
-They talk to `Daran Edermath` hoping he would know something about
+They talked to `Daran Edermath` hoping he would know something about
 `Cragmaw Castle`, but like everyone else, he didn't know anything.  He did tell
 them about the `Redbrands` headquarters, `Tresendar Manor`.  He also asked them
 to look into the ruins of `Old Owl Well`.  The undead have been seen up there
