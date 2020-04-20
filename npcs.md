@@ -16,7 +16,6 @@ npc Sildar Hallwinter {
   - Member of the Lords' Alliance with two quests for the party
 }
 
-
 npc Toblen Stonehill {
   - human
   - Innkeeper of Stonehill in Phandalin

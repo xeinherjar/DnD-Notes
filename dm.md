@@ -2,7 +2,7 @@
 
 | Character   | Dilford | Drupie | Flint | Bucket | Hood  |
 | ---:        | :-----: | :----: | :---: | :----: | :---: |
-| LVL         |       1 |      1 |     2 |      1 |     2 |
+| LVL         |       2 |      2 |     2 |      2 |     2 |
 | AC          |      16 |     13 |    18 |     12 |    18 |
 | STR         | 15   +2 | 12  +1 | 18 +4 |  9  -1 | 17 +3 |
 | DEX         | 10   +0 | 15  +2 | 14 +2 | 14  +2 | 14 +2 |
@@ -33,43 +33,10 @@ Help / Hide / Improvise / Ready / Search / Shove / Use an Object
 # Conditions
 Blinded / Charmed / Deafened / Frightened / Grappled / Incapacitated\
 Invisible / Paralyzed / Petrified / Poisoned / Prone / Restrained\
-/ Stunned / Unconscious
+Stunned / Unconscious
 
 # Combat
-Determine Surprise -> Establish Position -> Roll Initiative -> Take Turns -> Next Round
+Determine Surprise -> Establish Position -> Roll Initiative -> Take Turns -> 
+Next Round
 
 Movement -> Interact -> Action | Reaction -> Bonus Action
-
-# Dilford
-- Half Elf Paladin
-- Hit dice / 1d10
-- Kills
-  - Goblins x4
-
-# Drupie
-- Rock Gnome Ranger
-- Hit dice / 1d10
-- Kills
-  - Goblins x3
-
-# Flint Thicchammer
-- Dwarf Fighter
-- Hit dice / 1d10
-- Kills
-  - Bugbear x1
-      - Klarg
-  - Goblins x2
-  - Wolf x1
-
-# Senor Bucket
-- Human Wizard
-- Hit dice / 1d6
-- Kills
-  - Goblins x2
-
-# Vascular Hood
-- Human Fighter
-- Hit dice / 1d10
-- Kills
-  - Goblins x3
-      - Yeemik
