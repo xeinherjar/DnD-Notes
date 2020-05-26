@@ -220,32 +220,36 @@ The party headed back to town to rest and split their treasure.
 
 # Session 6
 The party informed `Sildar` of `Lord Albrek`'s betrayal on their way out of
-town, he granted the title of `Cloak` to Flint.  They then headed to `Old Owl
-Well` to investigate the undead.  There they met `Hamun Kost` and his cadre of undead.
-Sir Bucket was able to recognize that he was a Thay necromancer.  He is
-unwilling to leave, however if the party can remove the orcs that attack him so
-he can research in peace he could wrap up sooner, or if they speak with `Agatha`
-the banshee she could tell him who built the tower, and he would leave the area
-for now if he knew.
+town, he granted the party 200 gp.  He to Flint alone.
 
-After some debate, Hood wants to kill the necromancer where as Flint wants
-nothing to do with a necromancer, everyone heads off to `Conyberry` to speak
-with the banshee.  Upon arrival Dilford leads everyone into her house.  After
-speaking she considers answering a question for them, but vanishes before they
-can ask.  Since they could not gain the answer they head off to `Wyvern Tor` to
-handle the orcs.  Drupie tracks down the orcs camp and Sir Bucket transforms
-Hood into an orc.  Hood is able to trick the orc standing guard into letting him
-close and kills him.  Hood then leads everyone into the cave as 'prisoners' and
-they are able to surprise attack the orcs and ogre.
+They then headed to `Old Owl Well` to investigate the undead.  Here they met
+`Hamun Kost` and his cadre of undead.  Sir Bucket was able to recognize that he
+was a Thay necromancer.  He is unwilling to leave, however if the party can
+remove the orcs from `Wyvern Tor` or get the name of the wizard that built the
+tower from `Agatha` the banshee, he could leave the area faster.
+
+
+After some debate about killing the necromancer, everyone heads off to
+`Conyberry` to speak with the banshee.
+
+Upon arrival Dilford leads everyone into her house.  After speaking she
+considers answering a question for them, but vanishes before they can ask.
+Since they could not gain the answer they head off to `Wyvern Tor` to handle
+the orcs.
+
+Drupie tracks down the orcs camp and Sir Bucket transforms Hood into an orc.
+Hood is able to trick the orc standing guard into letting him close and kills
+him.  Hood then leads everyone into the cave as 'prisoners' and they are able
+to surprise attack the orcs and ogre.
 
 Hood kicks coals into their faces and the party is able to kill them all with
-little trouble.  `Brughor Axe-Biter` is knocked out and interrogated, but he had
-no useful information.  They party takes a long rest.
+fire and steel.  `Brughor Axe-Biter` is knocked out and interrogated by Flint,
+but he had no useful information.  They party takes a long rest.
 
 ### Notes
-- Flint granted title of `Cloak`
 - `Agatha` is gone
-- Need to inform `Hamun Kost` and `Townmaster Harbin` that the orcs are defeated
+- Need to inform both `Hamun Kost` and `Townmaster Harbin` that the orcs were
+defeated
 - Loot
   - 750 cp
   - 180 sp
